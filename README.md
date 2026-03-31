@@ -13,3 +13,8 @@ CPP consistently outperforms supervised learning, while PPI often does not, espe
 
 ---
 
+### Covertype
+![Covertype](optimal_accuracy_by_n_teacher_forest345.png)
+
+*Figure 2. Accuracy performance across SSL methods under partial-label forest teachers.*
+Test accuracy vs. labeled sample count \( n \) for supervised, PPI, CPP, and FixMatch under a partial-label forest teacher. Each method is evaluated at its optimal \( \lambda_0 \). Error bars show standard deviation. CPP consistently outperforms baselines, especially for small \( n \).
