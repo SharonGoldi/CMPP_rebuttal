@@ -1,7 +1,7 @@
 # CMPP_rebuttal
 
 ### CIFAR10
-![Cifar10_across_r](figures/ratio_to_supervised_row.pdf)
+![Cifar10_across_r](ratio_to_supervised_row.png)
 
 *Figure 1. Accuracy relative to supervised learning across labeled-to-unlabeled sample ratios.*
 Accuracy ratio relative to supervised learning across labeled-to-unlabeled ratios 
