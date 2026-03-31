@@ -24,4 +24,3 @@ Test accuracy vs. labeled sample count \( n \) for supervised, PPI, CPP, and Fix
 *Figure 3. Accuracy performance over labeld sample count under partial-label forest teachers.*
  Accuracy performance over labeled sample count \( n \in \{50, 250, 500, 1000\} \) under a partial-label forest teacher (labels 1–3). We compare supervised learning, PPI, and confidence-aware PPI (CPP), each evaluated at its optimal interpolation parameter (shown below each bar). 
 
-All methods improve, but CPP maintains an advantage, indicating robustness to limited supervision and effective use of pseudo-labels.
